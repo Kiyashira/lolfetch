@@ -1,7 +1,9 @@
 # lolfetch
 Runs neofetch with lolcat together
--Requires lolcat and neofetch to be installed
 
+## requirements!
+- Neofetch must be installed
+- lolcat must be installed
 ## installation
 For Debian and ubuntu based distros Download the lolfetch.deb from releases navigate to downloads in your terminal the type 'sudo dpkg -i lolfetch.deb'
 
